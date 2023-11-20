@@ -1,4 +1,4 @@
-# 야놀자테크스쿨 미니프로젝트 1조
+# 💸 TR1LL1ON
 ## 🔗 링크
 ### [Slack](https://app.slack.com/client/T064N4WMK28/C064N76N9HA/thread/C064N76N9HA-1700206382.555029)
 ### [Notion](https://www.notion.so/1-c168673667e3412da40b6a76244d4461)
