@@ -19,5 +19,5 @@
 | **서은** |  |  |
 | 수빈 | https://github.com/Su-daa |  |
 | 유림 |  |  |
-| 지운 |  |  |
+| 지운 | https://github.com/sungjiwoon |  |
 ---
